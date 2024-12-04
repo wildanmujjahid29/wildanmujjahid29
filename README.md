@@ -1,32 +1,20 @@
-## Personal Stuffs
+# Welcome to My GitHub Profile!
 
-<img align="left" alt="hh" width="190px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47er1ul1p8w1stte2mvjvyxafgfid90btspxpxbzkw&ep=v1_gifs_search&rid=200.webp&ct=g" /> 
+> "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
 
-    👋 Hi, My Name is Wildan.
-    
-    -💻 I'm majoring in Computer Science.
-    -🌱 I'm currently learning Web Development & Data Scientist.
-    -😀 I like to watch movies, listen to sad songs, and travel.
-    -💬 If you have any questions, feel free to ask.
-
-
+---
 <div align="center">
-    
-  ## 📊 GitHub Stats:
-  
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=wildanmujjahid29&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages">
       </td>
     </tr>
   </table>
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=wildanmujjahid29&theme=merko&hide_border=false)
 </div>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="50" height="50" /> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Spark" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" /> </p>
 
 <div align="center">
   

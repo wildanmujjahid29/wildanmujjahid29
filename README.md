@@ -3,6 +3,7 @@
 > "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
 
 ---
+
 <div align="center">
   <table>
     <tr>
@@ -45,6 +46,7 @@ Here’s a more structured and organized version of your GitHub README:
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" alt="GitHub Logo" width="50" height="50" />
   <img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" alt="Visual Studio Code" width="50" height="50" />
 </p>
+
 ---
 
 

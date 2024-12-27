@@ -14,7 +14,7 @@
   </table>
 </div>
 
-Here’s a more structured and organized version of your GitHub README:
+
 
 ---
 

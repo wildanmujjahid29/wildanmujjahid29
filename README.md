@@ -4,19 +4,28 @@
 
 ---
 
-<div align="center">
+<details>
+<summary>
+<strong>🌟 GitHub Stats</strong>
+<p></p>
+</summary>
+<div align="left">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&layout=compact" alt="Most Used Languages" height="150px">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=wildanmujjahid29&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="150px">
       </td>
     </tr>
   </table>
 </div>
-
-
+</details>
 
 ---
+
+
 
 <!---
 

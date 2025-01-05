@@ -13,10 +13,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&layout=compact" alt="Most Used Languages" height="150px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&layout=compact" alt="Most Used Languages" height="180px">
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=wildanmujjahid29&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="150px">
+        <img src="https://streak-stats.demolab.com/?user=wildanmujjahid29&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="180px">
       </td>
     </tr>
   </table>
@@ -24,7 +24,29 @@
 </details>
 
 ---
-
+<details>
+  <summary>
+    <strong>Badge</strong>
+    <p></p>
+  </summary>
+  <div align="left">
+    <table>
+      <tr>
+        <td>
+          <a href="https://developers.google.com/profile/badges/community/tec/member?hl=id">
+            <img src="https://developers.google.com/static/profile/badges/community/tec/member/badge.svg?hl=id" alt="TEC Member Badge" width="125">
+          </a>
+        </td>
+        <td>
+          <a href="https://developers.google.com/profile/badges/community/gdsc/2023/member?hl=id">
+            <img src="https://developers.google.com/static/profile/badges/community/gdsc/2023/member/badge.svg?hl=id" alt="GDSC 2023 Member Badge" width="125">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+</details>
 
 
 <!---
@@ -71,15 +93,10 @@
 
 </div>
 
-
----
 -->
 
-<div align="center">
-  
-![Visitor Count](https://visitcount.itsvg.in/api?id=wildanmujjahid29&icon=6&color=0)
+---
 
-</div>
 
 
 

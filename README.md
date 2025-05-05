@@ -1,4 +1,5 @@
-# Welcome to My GitHub Profile!
+<img src="assets/img/banner1.png" alt="Banner" style="width:100%;">
+
 
 > "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
 

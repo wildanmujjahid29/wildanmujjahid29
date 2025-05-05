@@ -5,27 +5,18 @@
 
 ---
 
-<details>
-<summary>
-<strong>🌟 GitHub Stats</strong>
-<p></p>
-</summary>
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&layout=compact" alt="Most Used Languages" height="180px">
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=wildanmujjahid29&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="180px">
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmujjahid29&theme=merko&hide_border=true&layout=compact" alt="Most Used Languages" height="180px">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=wildanmujjahid29&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="180px">
+    </td>
+  </tr>
+</table>
 
----
-<details>
+<!-- <details>
   <summary>
     <strong>Badge</strong>
     <p></p>
@@ -47,7 +38,7 @@
     </table>
   </div>
   
-</details>
+</details> -->
 
 
 <!---

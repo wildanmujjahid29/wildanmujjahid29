@@ -15,25 +15,3 @@
     </td>
   </tr>
 </table>
-
-
-<div align="center">
-  <a href="https://namaportofolioanda.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/globe.png" alt="Website Portofolio" width="30" height="30">
-  </a>
-  <a href="https://www.facebook.com/wildan.mujjahidrobbani" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="32" height="32">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/_wildanmjjhd/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="32" height="32">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/wildanmujjahid" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32">
-  </a>
-  &nbsp;
-  <a href="https://x.com/Wildanmjjhd" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="X" width="32" height="32">
-  </a>
-</div>
